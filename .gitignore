@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+dist/
+build/
+target/
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.secret
+
+# IDE & OS
+.idea/
+.vscode/
+*.suo
+*.user
+*.useroscore
+.DS_Store
+Thumbs.db
+*.log
